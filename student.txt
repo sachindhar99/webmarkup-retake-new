@@ -1,5 +1,5 @@
 o Student name: Sachin Dhar
 o Student number: 698080
 o Student class:  Retake IT1E
-o GitHub repository: https://github.com/sachindhar99/Webmarkup-2
-o GitHub Pages URL : https://sachindhar99.github.io/Webmarkup-2
+o GitHub repository:  https://github.com/sachindhar99/webmarkup-retake-new
+o GitHub Pages URL: https://sachindhar99.github.io/webmarkup-retake-new/
